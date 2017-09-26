@@ -5,7 +5,7 @@ Ensemble, écrivons le premier texte de stand-up libre de droit à partir d'un n
 
 Pour l'instant, il n'y a que l'introduction du numéro qui est disponible afin de se familiariser avec la plate-forme.
 
-
+Voici la captation du numéro au complet : https://www.youtube.com/watch?v=KHihPtGAtQM
 
 
 
