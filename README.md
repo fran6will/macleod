@@ -13,20 +13,24 @@ Voici la captation du numéro au complet : https://www.youtube.com/watch?v=KHihP
 Des questions? Des commentaires? Des suggestions?
 https://github.com/fran6will/macleod/issues
 
-```
+
 Voici la mise en page à respecter
 
-## Indications 
- ```
-S'adressant à un monsieur dans l'assistance et faisant référence à la musique de son entrée.
- ```
-## Dialogue
+## Dialogue - 1 phrase par ligne
+
 C'est fort, hein, monsieur. 
 
-## Punch
+## Punch - en gras
+```
+**Vous saignez un petit peu du nez.**
+```
+donne : 
 **Vous saignez un petit peu du nez.**
 
-## Quand il rit
+## Quand il rit - italique
+```
+*il rit*
+```
+donne :
 *il rit*
 
-```
