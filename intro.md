@@ -1,6 +1,6 @@
 # Peter Macleod - Numéro Juste pour Rire - 1998
 
-## Intro
+## Introduction
 
 ```
 Peter arrive du public et se dirige vers la scène. De la musique "heavy-metal" joue. Une fois sur scène, 
