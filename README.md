@@ -1,8 +1,9 @@
 ## Peter Macleod - 1998 - Version 2.0
 
-Vous avez envie de retravailler, collaborativement, un numéro de l'humoriste Peter Macleod qui date de 1998 afin de le rendre le plus drôle et actuel possible?
+Ensemble, écrivons le premier texte de stand-up libre de droit à partir d'un number de Peter Macleod qui date de 1998.
 
-Pour l'instant, l'introduction du numéro est disponible afin de se familiariser avec la plate-forme.
+
+Pour l'instant, il n'y a que l'introduction du numéro qui est disponible afin de se familiariser avec la plate-forme.
 
 
 
